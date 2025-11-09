@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/projeto_final-ag10-14-DS-/FileContentIndex/merges
+/.vs/projeto_final-ag10-14-DS-/v17
+*.sqlite
+/.vs/VSWorkspaceState.json
